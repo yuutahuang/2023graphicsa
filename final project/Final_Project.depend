@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1683682951 source:c:\users\administrator\desktop\2023graphicsa\final_project\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1426320928 c:\users\administrator\desktop\2023graphicsa\final_project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\administrator\desktop\2023graphicsa\final_project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1683682951 source:c:\users\administrator\desktop\2023graphicsa\final_project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1683682951 c:\users\administrator\desktop\2023graphicsa\final_project\glm.h
+	<GL/glut.h>
+
+1683783254 source:c:\users\administrator\2023graphicsa\final_project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1683783254 c:\users\administrator\2023graphicsa\final_project\glm.h
+	<GL/glut.h>
+
+1683783254 c:\users\administrator\2023graphicsa\final_project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1683783254 c:\users\administrator\2023graphicsa\final_project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1683783310 source:c:\users\administrator\2023graphicsa\final_project\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"glm.h"
+
+1683864392 source:c:\users\gamey\desktop\final project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1683864369 c:\users\gamey\desktop\final project\glm.h
+	<GL/glut.h>
+
+1676428054 c:\users\gamey\desktop\final project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1676428054 c:\users\gamey\desktop\final project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1683864360 source:c:\users\gamey\desktop\final project\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"glm.h"
+
