@@ -5,7 +5,8 @@
 *.slo
 *.lo
 *.o
-*.obj
+# *.obj
+# 希望也備份 3D model 檔
 
 # Precompiled Headers
 *.gch
@@ -15,6 +16,8 @@
 *.so
 *.dylib
 # *.dll
+# 希望備份 libfreeglut.dull 及 opencv 的 .dull 才能讓程式執行
+
 
 # Fortran module files
 *.mod
@@ -23,9 +26,9 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
-
+# *.a
+# *.lib
+# 因為希望也備份 freeglut 的 lib 目錄裡的 libfreeglut32.a 等檔案
 # Executables
 *.exe
 *.out
